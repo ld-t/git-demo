@@ -6,3 +6,4 @@ git log:详细日志
 git reset --hard 版本号:回到某个版本
 git branch -v:查看分支
 git branch name:创建分支
+git checkout branch_name:切换分支
