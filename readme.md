@@ -29,3 +29,5 @@ git remote add 远程库名字 远程库地址:给远程库起别名
 git push 远程库 分支名
 
 git pull 远程库 分支名
+
+new 
