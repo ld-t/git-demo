@@ -9,3 +9,4 @@ git branch -v:查看分支
 git branch name:创建分支
 git checkout branch_name:切换分支
 git merge branch_name:合并分支
+new new
