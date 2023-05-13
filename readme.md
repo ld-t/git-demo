@@ -11,3 +11,7 @@ git checkout branch_name:切换分支
 git merge branch_name:合并分支
 合并冲突，去修改冲突的文件，然后add，commit(commit不能带文件名)
 
+git remote -v:查看远程库
+
+git remote add 远程库名字 远程库地址:给远程库起别名
+
