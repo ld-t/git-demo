@@ -7,5 +7,6 @@ git reset --hard 版本号:回到某个版本
 
 
 
-
 git merge branch_name:合并branch_name到当前分支
+
+new new
