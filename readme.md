@@ -9,4 +9,5 @@ git branch -v:查看分支
 git branch name:创建分支
 git checkout branch_name:切换分支
 git merge branch_name:合并分支
-new new
+合并冲突，去修改冲突的文件，然后add，commit(commit不能带文件名)
+
