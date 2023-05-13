@@ -26,8 +26,8 @@ git remote -v:查看远程库
 
 git remote add 远程库名字 远程库地址:给远程库起别名
 
-git push 远程库 分支名
+git push 远程库 分支名:将分支推送到远程库
 
-git pull 远程库 分支名
+git pull 远程库 分支名:将远程库的该分支拉取到本地当前分支
 
-new 
+
